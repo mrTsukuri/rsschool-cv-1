@@ -56,4 +56,4 @@ There will be links to future works here
 2. JavaScript на https://learn.javascript.ru/ 
 ##English
 ***
-A - Basic User ([duolingo.com](https://www.duolingo.com/learn))
+A - Basic([duolingo.com](https://www.duolingo.com/learn))
