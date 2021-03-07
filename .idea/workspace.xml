@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44c17a3f-6862-4498-8cbe-f9c4ee72910e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rsschool-cv.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar_r.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +13,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cv.md" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1pObC2Q5FssJYQ1cilzeC6rSnmR" />
   <component name="ProjectViewState">
@@ -29,6 +30,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\#OpenServer\domains\2021q1\rsschool-cv\img" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +45,7 @@
       <updated>1615056955794</updated>
       <workItem from="1615056958687" duration="3600000" />
       <workItem from="1615118272303" duration="595000" />
-      <workItem from="1615118946996" duration="7716000" />
+      <workItem from="1615118946996" duration="8947000" />
     </task>
     <servers />
   </component>
