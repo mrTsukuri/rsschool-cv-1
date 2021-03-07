@@ -1,10 +1,13 @@
-#[rsschool-cv](https://sergey-glushakov.github.io/rsschool-cv/)
+[rsschool-cv](https://sergey-glushakov.github.io/rsschool-cv/)
+-------------------------------------------------------------------
 ***
 
-#Sergey Glushakov
+Sergey Glushakov
+=================
 ***
 
-##Contacts:
+Contacts:
+----------
 ***
 
 + **tel** _+79295266240_
@@ -12,13 +15,15 @@
 + **email** _sergey_glushakov_web@mail.ru_
 + **telegram** _https://t.me/sergey_glushakov_
 
-##About me:
+About me:
+-----------------
 ***
 
 I am a novice front end developer from Moscow.Web development for me is more than a job, it is a very interesting and creative process. And the more I dive into the world of web development, the more I like it. My goal is to become a sought-after specialist.
 
 
-##Skills:
+Skills:
+--------------
 ***
 
 + **HTML**
@@ -31,7 +36,8 @@ I am a novice front end developer from Moscow.Web development for me is more tha
 + **GIT**
 
 
-##An example of my code:
+An example of my code:
+-------------------------
 ***
 
 ```
@@ -51,18 +57,21 @@ sections.articles__main
 ```
 
 
-##Work experience:
+Work experience:
+------------------
 ***
 
 There will be links to future works here
 
-##Education:
+Education:
+-------------
 ***
 
 1. HTML и CSS в [loftschool.com](https://loftschool.com/)
 2. JavaScript на https://learn.javascript.ru/ 
 
-##English
+English
+--------------
 ***
 
 A - Basic([duolingo.com](https://www.duolingo.com/learn))
