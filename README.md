@@ -1,2 +1,2 @@
-
-https://github.com/sergey-glushakov/rsschool-cv/cv
+https://sergey-glushakov.github.io/rsschool-cv/
+https://sergey-glushakov.github.io/rsschool-cv/cv
