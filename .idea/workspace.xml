@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44c17a3f-6862-4498-8cbe-f9c4ee72910e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +26,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../vetal.loc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -43,7 +46,10 @@
       <updated>1615056955794</updated>
       <workItem from="1615056958687" duration="3600000" />
       <workItem from="1615118272303" duration="595000" />
-      <workItem from="1615118946996" duration="11574000" />
+      <workItem from="1615118946996" duration="12586000" />
+      <workItem from="1615199912735" duration="668000" />
+      <workItem from="1615200586697" duration="616000" />
+      <workItem from="1615228440702" duration="1266000" />
     </task>
     <servers />
   </component>
